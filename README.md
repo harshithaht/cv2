@@ -1,6 +1,3 @@
-# cv2
-
-
 <html>
 <head>
 
