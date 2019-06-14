@@ -1,9 +1,5 @@
 <html>
 <head>
-
- 
-
-
 <style>/* Stylesheet 3: */
 body {
     font: 100% Verdana;
@@ -89,10 +85,6 @@ img {
   border-radius: 50%;
 }
 </style>
-
-
-
-
 </head>
 <body>
 
@@ -189,13 +181,6 @@ th {
   </tr>
   
 </table>
-
-
-
-
-
-
- 
 <tr align="left" valign="top">
 	<td>
 		<br>
